@@ -35,9 +35,11 @@ const Home = () => {
                 <p>
                     Explore our detailed case studies focused on Good Health and Well-Being. Click the SDG to learn about the specific challenges addressed and our innovative solution proposed.
                 </p>
-                <button className='sdg3'>
-                    <h2>SDG 3: Good Health and Well-Being</h2>
-                </button>
+                <a href = "https://sdgs.un.org/goals/goal3">
+                    <button className='sdg3'>
+                        <h2>SDG 3: Good Health and Well-Being</h2>
+                    </button>
+                </a>
             </div>
         </div>
     </div>
